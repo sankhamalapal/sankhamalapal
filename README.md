@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sankhamala Pal</h1>
 <h3 align="center">A skilled software developer, passionate about building impactful and innovative solutions.</h3>
 
-- 🔭 I’m currently working on **Validation of Power Grid Model using AI**
+- 🔭  Worked on **AI-based validation of power grid models** during my Master’s thesis and continued as a Research Assistant at Fraunhofer ISE.
+Due to NDA restrictions, the code cannot be shared publicly, but my thesis is available here: [Msc_Thesis]([https://drive.google.com/drive/folders/1Z9qC1kyOhGT27sCsMT_nf8XJNHKKd70p?usp=sharing](https://drive.google.com/drive/u/0/folders/1AYK2BQzcXvsnEXfh_m_1rEm7_g6KtJgL)).
 
-- 🌱 I’m currently learning **Python, PyPSA framework, pandas, numpy, scipy, and matplotlib**
+- 🌱 Currently expanding my skills in **Python, NumPy, PyTorch, TensorFlow, and Matplotlib**.
 
 - 👨‍💻 My Master's project is available at [BEXOME_Health_Application](https://gitlab.com/spal360/master_project-bexome)
 - 💬 Ask me about **Data Structure and Algorithm**
