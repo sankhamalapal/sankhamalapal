@@ -11,7 +11,7 @@ Due to NDA restrictions, the code cannot be shared publicly, but my thesis is av
 
 - 📫 How to reach me **sankhamala13@gmail.com**
 
-- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/drive/folders/1Z9qC1kyOhGT27sCsMT_nf8XJNHKKd70p?usp=sharing)
+- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/drive/folders/1Z9qC1kyOhGT27sCsMT_nf8XJNHKKd70p)
 
 - ⚡ Fun fact **Every bug is a hidden opportunity—a treasure waiting to be discovered! 🐛✨**
 
