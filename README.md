@@ -2,7 +2,7 @@
 <h3 align="center">A skilled software developer, passionate about building impactful and innovative solutions.</h3>
 
 - 🔭  Worked on **AI-based validation of power grid models** during my Master’s thesis and continued as a Research Assistant at Fraunhofer ISE.
-Due to NDA restrictions, the code cannot be shared publicly, but my thesis is available here: [Msc_Thesis](https://drive.google.com/drive/u/0/folders/1AYK2BQzcXvsnEXfh_m_1rEm7_g6KtJgL).
+Due to NDA restrictions, the code cannot be shared publicly, but my thesis is available here: [Msc_Thesis](https://drive.google.com/file/d/1Y490UM8T8KGi6OlUAQ_5AoqLibzsINxw/view?usp=sharing).
 
 - 🌱 Currently expanding my skills in **Python, NumPy, PyTorch, TensorFlow, and Matplotlib**.
 
@@ -11,7 +11,7 @@ Due to NDA restrictions, the code cannot be shared publicly, but my thesis is av
 
 - 📫 How to reach me **sankhamala13@gmail.com**
 
-- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/drive/folders/1Z9qC1kyOhGT27sCsMT_nf8XJNHKKd70p)
+- 📄 Know about my experiences [My Resume/CV](https://drive.google.com/file/d/1EJTGHUAboqLqw8ixifs3eMN9pIwlN0EF/view?usp=sharing)
 
 - ⚡ Fun fact **Every bug is a hidden opportunity—a treasure waiting to be discovered! 🐛✨**
 
