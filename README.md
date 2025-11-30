@@ -4,7 +4,7 @@
 - 🔭  Worked on **AI-based validation of power grid models** during my Master’s thesis and continued as a Research Assistant at Fraunhofer ISE.
 Due to NDA restrictions, the code cannot be shared publicly, but my thesis is available here: [Msc_Thesis](https://drive.google.com/file/d/1Y490UM8T8KGi6OlUAQ_5AoqLibzsINxw/view?usp=sharing).
 
-- 🌱 Currently expanding my skills in **Python, NumPy, PyTorch, TensorFlow, and Matplotlib**.
+- 🌱 Currently exploring Large Language Models (LLMs), prompt engineering, and API-based AI integrations
 
 - 👨‍💻 My Master's project is available at [BEXOME_Health_Application](https://gitlab.com/spal360/master_project-bexome)
 - 💬 Ask me about **Data Structure and Algorithm**
