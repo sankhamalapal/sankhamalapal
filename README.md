@@ -2,7 +2,7 @@
 <h3 align="center">A skilled Full-stack developer and passionate AI researcher.</h3>
 
 
-- 🤖 Completed intensive Google course on Large Language Models (LLMs), prompt engineering, and API-based AI integrations with a capstone project using LLM [MoodMate](https://github.com/sankhamalapal/MoodMate)
+- 🤖 Completed intensive Google course on Large Language Models (LLMs), prompt engineering, and API-based AI integrations with a capstone project using LLM [MoodMate]([https://github.com/sankhamalapal/MoodMate](https://kaggle.com/competitions/agents-intensive-capstone-project/writeups/new-writeup-1764437045927))
   
 - 🔭  Completed Master’s thesis on **AI-based validation of power grid models** and worked as an AI researcher (Research Assistant) at Fraunhofer ISE.
 Due to NDA restrictions, the code cannot be shared publicly, but my thesis is available here: [Msc_Thesis](https://drive.google.com/file/d/1Y490UM8T8KGi6OlUAQ_5AoqLibzsINxw/view?usp=sharing).
